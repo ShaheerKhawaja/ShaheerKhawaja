@@ -25,13 +25,18 @@ I run **[Entropy & Co.](https://entropyand.co)** — an AI-native product studio
 
 - **[Entropy Studio](https://entropyand.co)** — AI video production platform. 6-agent VERTEX pipeline (Intake → Emotion → Narrative → Composer → QA → Delivery) that turns briefs into production-ready video across **Veo 3, Seedance, Sora, Runway & Kling**. Emotion-first prompting, multi-model orchestration, real-time collaboration. 14 AI agents, 3 generation modes.
 
+- **Agentspace (YC F'25)** - AI Native CRM designed for insurance agencies, currently under stealth and YC F'25. 
+
+- **Anatomia** - Open Source EHR and Medical AI Agents for Triage and MedOps. Non critical queries drive 70-80% query, requiring strict imbox responses, accurate data storage and referencing, leading to high workload burdens on healthcare professionals. Anatomia helps resolve this, improving both patient outcomes and Op related workloads on healthcare professionals.
+
+- **RISQ and SHELL-i** -  RISQ and SHELL-i suite is extensive self learning Voice AI agents designed for fraud detection during legal intake. Currently mass tort intakes are clouded with fraud and coached leads, costing millions of losses and reducing access to well deserved representation. RISQ and SHELL-i change this entirely, supercharging intake centres or even creating a virtual one for law-firms. 
+
 ## Experience Highlights
 
 - **CEO & Co-Founder @ Entropy & Co.** — Leading product strategy and technical operations. Directing cross-functional team across engineering, design, and GTM. Built multi-tenant SaaS infrastructure: Django + FastAPI + Next.js + PostgreSQL + Redis + Celery
 - **Previously @ Toptal, COLABS, Matriarch Ventures Exonomy, Parabellum** — ~5 years across technology, agriculture, textile, and hospitality sectors. Led growth strategies, stakeholder relations, and cross-border team operations
 - **Speaker @ Google I/O Extended 2025 (GDG Lahore)** — Co-presented ["Exploring Agentic AI with ROI for High Impact Industries"](https://speakerdeck.com/gdglahore/o-extended-2025-c4523c7b-3db4-466c-a36e-12b5c5291b2b) covering CoT, CoD, ToT prompting, Vertex AI, and production agent architectures
-- **Speaker @ Mindvalley University (Amsterdam)** — Main stage talk on AI & Agents to 1,500+ attendees
-- **Featured by [Ignite NTF](https://www.facebook.com/IgniteNTF/videos/3891436517666893/)** — Pakistan's National Technology Fund, representing Pakistan in AI innovation
+- **Featured by [Ignite NTF](https://www.facebook.com/IgniteNTF/videos/3891436517666893/)** — Pakistan's National Technology Fund, representing Pakistan in AI innovation at GITEX'25 and Indus AI Week.
 
 ## Tech Stack
 
