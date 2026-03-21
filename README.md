@@ -80,6 +80,6 @@ Maintaining **44+ repositories** focused on AI video generation, agentic enginee
 
 Open to conversations about AI-native product architecture, video generation, vertical SaaS, and agentic engineering.
 
-**Lahore, PK** · **Alberta, CA**
+**Lahore, PK** <-> **Sunnyvale, CA**
 
 </div>
