@@ -19,17 +19,17 @@ Dev turned GTM, reverted back to the tech world. Creating AI with ROI for high-i
 
 I run **[Entropy & Co.](https://entropyand.co)** — an AI-native product studio shipping vertical SaaS for industries that still run on spreadsheets and gut feel. Previously at **Toptal**, **COLABS**, **Matriarch Ventures Exonomy**, and **Parabellum: A.I Driven Fitness**, with ~5 years across textile, technology, hospitality, and agriculture. Part of a team that secured up to **USD $10M funding** for an ESG-based startup.
 
-## Products
+## Products and Active Projects I am working on
 
-- **[Obelisk](https://theobelisk.app)** — Revenue Intelligence Engine. A suite of AI agents built by top 1% marketeers, powered by your data. Connects CRMs, marketing channels, and ERP/inventory. AI Virtual Twins let you simulate strategies against a 1:1 recreation of your audience before spending a penny. Not a dashboard — the entire marketing department.
+- **[Obelisk](https://theobelisk.app)** ( Co-Founder ) — Revenue Intelligence Engine. A suite of AI agents built by top 1% marketeers, powered by your data. Connects CRMs, marketing channels, and ERP/inventory. AI Virtual Twins let you simulate strategies against a 1:1 recreation of your audience before spending a penny. Not a dashboard — the entire marketing department.
 
-- **[Entropy Studio](https://entropyand.co)** — AI video production platform. 6-agent VERTEX pipeline (Intake → Emotion → Narrative → Composer → QA → Delivery) that turns briefs into production-ready video across **Veo 3, Seedance, Sora, Runway & Kling**. Emotion-first prompting, multi-model orchestration, real-time collaboration. 14 AI agents, 3 generation modes.
+- **[Entropy Studio](https://entropyand.co)** ( Founder ) — AI video production platform. 6-agent VERTEX pipeline (Intake → Emotion → Narrative → Composer → QA → Delivery) that turns briefs into production-ready video across **Veo 3, Seedance, Sora, Runway & Kling**. Emotion-first prompting, multi-model orchestration, real-time collaboration. 14 AI agents, 3 generation modes.
 
-- **Agentspace (YC F'25)** - AI Native CRM designed for insurance agencies, currently under stealth and YC F'25. 
+- **[Agentspace (YC F'25)](www.useagentspace.com)** - AI Native CRM designed for insurance agencies, currently under stealth and YC F'25. 
 
-- **Anatomia** - Open Source EHR and Medical AI Agents for Triage and MedOps. Non critical queries drive 70-80% query, requiring strict imbox responses, accurate data storage and referencing, leading to high workload burdens on healthcare professionals. Anatomia helps resolve this, improving both patient outcomes and Op related workloads on healthcare professionals.
+- **Anatomia** ( Co-Founder ) - Open Source EHR and Medical AI Agents for Triage and MedOps. Non critical queries drive 70-80% query, requiring strict imbox responses, accurate data storage and referencing, leading to high workload burdens on healthcare professionals. Anatomia helps resolve this, improving both patient outcomes and Op related workloads on healthcare professionals.
 
-- **RISQ and SHELL-i** -  RISQ and SHELL-i suite is extensive self learning Voice AI agents designed for fraud detection during legal intake. Currently mass tort intakes are clouded with fraud and coached leads, costing millions of losses and reducing access to well deserved representation. RISQ and SHELL-i change this entirely, supercharging intake centres or even creating a virtual one for law-firms. 
+- **[RISQ and SHELL-i](https://www.themisanalytics.com/)** -  RISQ and SHELL-i suite is extensive self learning Voice AI agents designed for fraud detection during legal intake. Currently mass tort intakes are clouded with fraud and coached leads, costing millions of losses and reducing access to well deserved representation. RISQ and SHELL-i change this entirely, supercharging intake centres or even creating a virtual one for law-firms. 
 
 ## Experience Highlights
 
