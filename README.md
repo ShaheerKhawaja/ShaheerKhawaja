@@ -25,7 +25,7 @@ I run **[Entropy & Co.](https://entropyand.co)** — an AI-native product studio
 
 - **[Entropy Studio](https://entropyand.co)** ( Founder ) — AI video production platform. 6-agent VERTEX pipeline (Intake → Emotion → Narrative → Composer → QA → Delivery) that turns briefs into production-ready video across **Veo 3, Seedance, Sora, Runway & Kling**. Emotion-first prompting, multi-model orchestration, real-time collaboration. 14 AI agents, 3 generation modes.
 
-- **[Agentspace (YC F'25)](www.useagentspace.com)** - AI Native CRM designed for insurance agencies, currently under stealth and YC F'25. 
+- **[Agentspace (YC F'25)](https://www.useagentspace.com)** - AI Native CRM designed for insurance agencies, currently under stealth and YC F'25. 
 
 - **Anatomia** ( Co-Founder ) - Open Source EHR and Medical AI Agents for Triage and MedOps. Non critical queries drive 70-80% query, requiring strict imbox responses, accurate data storage and referencing, leading to high workload burdens on healthcare professionals. Anatomia helps resolve this, improving both patient outcomes and Op related workloads on healthcare professionals.
 
