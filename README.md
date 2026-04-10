@@ -4,8 +4,6 @@
 
 CEO & Co-Founder @ [Entropy & Co.](https://entropyand.co) | Building [Obelisk](https://theobelisk.app) & [Entropy Studio](https://entropyand.co)
 
-Dev turned GTM, reverted back to the tech world. Creating AI with ROI for high-impact industries.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaheerkhawaja)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shaheerkhawaja)
 [![Website](https://img.shields.io/badge/Entropy_&_Co.-000000?style=for-the-badge&logo=safari&logoColor=white)](https://entropyand.co)
